@@ -1,0 +1,15 @@
+features:::::
+color: 
+features {p}
+#898989
+spacign: 115
+bottom: 91
+bottom: 160
+lemon:
+<i class="far fa-lemon"></i>
+folder: 
+<i class="far fa-folder"></i>
+code:
+<i class="fas fa-code"></i>
+
+contact: fcdb00 - yellow
